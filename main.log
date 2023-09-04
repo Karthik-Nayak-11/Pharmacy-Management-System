@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.1)  4 SEP 2023 23:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.1)  5 SEP 2023 02:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -808,10 +808,27 @@ Package pdftex.def Info: 2.png  used on input line 385.
 [9
 
  <./home page.png> <./2.png>]
+<druglist.png, id=87, 534.798pt x 427.5975pt>
+File: druglist.png Graphic file (type png)
+<use druglist.png>
+Package pdftex.def Info: druglist.png  used on input line 393.
+(pdftex.def)             Requested size: 290.22105pt x 232.04753pt.
+<userinfo.png, id=88, 723.30225pt x 509.5035pt>
+File: userinfo.png Graphic file (type png)
+<use userinfo.png>
+Package pdftex.def Info: userinfo.png  used on input line 401.
+(pdftex.def)             Requested size: 290.22105pt x 204.43527pt.
+ [10 <./druglist.png> <./userinfo.png>]
+<dealslist.png, id=94, 520.94624pt x 351.11176pt>
+File: dealslist.png Graphic file (type png)
+<use dealslist.png>
+Package pdftex.def Info: dealslist.png  used on input line 409.
+(pdftex.def)             Requested size: 362.77263pt x 244.5068pt.
+ [11 <./dealslist.png>]
 Chapter 5.
-[10
+[12
 
-] [11
+] [13
 
 ] (main.aux)
 
@@ -822,10 +839,10 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10951 strings out of 476331
- 206943 string characters out of 5787294
+ 10975 strings out of 476331
+ 207350 string characters out of 5787294
  1857660 words of memory out of 5000000
- 31268 multiletter control sequences out of 15000+600000
+ 31289 multiletter control sequences out of 15000+600000
  518542 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,7n,68p,679b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -837,9 +854,9 @@ onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Darren/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Darren/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Darren/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on main.pdf (18 pages, 1605237 bytes).
+Output written on main.pdf (20 pages, 1725706 bytes).
 PDF statistics:
- 125 PDF objects out of 1000 (max. 8388607)
+ 138 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
