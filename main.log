@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.1)  1 SEP 2023 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.9.1)  4 SEP 2023 23:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -474,9 +474,6 @@ Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 
 LaTeX Warning: Label `sjeclogo' multiply defined.
 
-
-LaTeX Warning: Label `table:1' multiply defined.
-
 )
 \openout1 = `main.aux'.
 
@@ -720,15 +717,15 @@ Chapter 3.
 File: er-diagram-for-student-management-system.png Graphic file (type png)
 <use er-diagram-for-student-management-system.png>
 Package pdftex.def Info: er-diagram-for-student-management-system.png  used on 
-input line 250.
+input line 252.
 (pdftex.def)             Requested size: 483.69684pt x 304.95177pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--258
+Underfull \hbox (badness 10000) in paragraph at lines 249--260
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--258
+Underfull \hbox (badness 10000) in paragraph at lines 249--260
 
  []
 
@@ -738,28 +735,83 @@ Underfull \hbox (badness 10000) in paragraph at lines 247--258
 <DBMS-Schema.png, id=42, 506.89375pt x 455.7025pt>
 File: DBMS-Schema.png Graphic file (type png)
 <use DBMS-Schema.png>
-Package pdftex.def Info: DBMS-Schema.png  used on input line 262.
+Package pdftex.def Info: DBMS-Schema.png  used on input line 264.
 (pdftex.def)             Requested size: 483.69684pt x 434.86186pt.
  [4 <./DBMS-Schema.png>]
-[5]
+<company.png, id=47, 581.7735pt x 96.36pt>
+File: company.png Graphic file (type png)
+<use company.png>
+Package pdftex.def Info: company.png  used on input line 275.
+(pdftex.def)             Requested size: 483.69684pt x 80.11696pt.
+<drugs.png, id=48, 631.158pt x 302.3295pt>
+File: drugs.png Graphic file (type png)
+<use drugs.png>
+Package pdftex.def Info: drugs.png  used on input line 285.
+(pdftex.def)             Requested size: 483.69684pt x 231.69188pt.
+<expiry.png, id=49, 622.12425pt x 113.82526pt>
+File: expiry.png Graphic file (type png)
+<use expiry.png>
+Package pdftex.def Info: expiry.png  used on input line 295.
+(pdftex.def)             Requested size: 483.69684pt x 88.50195pt.
+
+[5 <./company.png> <./drugs.png> <./expiry.png>]
+<history.png, id=56, 595.023pt x 238.491pt>
+File: history.png Graphic file (type png)
+<use history.png>
+Package pdftex.def Info: history.png  used on input line 305.
+(pdftex.def)             Requested size: 483.69684pt x 193.87534pt.
+<inbox.png, id=57, 619.113pt x 95.1555pt>
+File: inbox.png Graphic file (type png)
+<use inbox.png>
+Package pdftex.def Info: inbox.png  used on input line 315.
+(pdftex.def)             Requested size: 483.69684pt x 74.34438pt.
+<login.png, id=58, 558.28575pt x 120.45pt>
+File: login.png Graphic file (type png)
+<use login.png>
+Package pdftex.def Info: login.png  used on input line 325.
+(pdftex.def)             Requested size: 483.69684pt x 104.35689pt.
+ [6 <./history.png> <./inbox.png> <./login.png>]
+<messagehist.png, id=66, 619.71526pt x 92.7465pt>
+File: messagehist.png Graphic file (type png)
+<use messagehist.png>
+Package pdftex.def Info: messagehist.png  used on input line 335.
+(pdftex.def)             Requested size: 483.69684pt x 72.39293pt.
+<purchase.png, id=67, 637.1805pt x 178.266pt>
+File: purchase.png Graphic file (type png)
+<use purchase.png>
+Package pdftex.def Info: purchase.png  used on input line 345.
+(pdftex.def)             Requested size: 483.69684pt x 135.3285pt.
+<sales.png, id=68, 581.17125pt x 195.73125pt>
+File: sales.png Graphic file (type png)
+<use sales.png>
+Package pdftex.def Info: sales.png  used on input line 355.
+(pdftex.def)             Requested size: 483.69684pt x 162.90488pt.
+ [7 <./messagehist.png> <./purchase.png> <./sales.png>]
+<users.png, id=75, 594.42075pt x 180.675pt>
+File: users.png Graphic file (type png)
+<use users.png>
+Package pdftex.def Info: users.png  used on input line 365.
+(pdftex.def)             Requested size: 483.69684pt x 147.02136pt.
+
+[8 <./users.png>]
 Chapter 4.
-<home page.png, id=50, 610.07925pt x 325.215pt>
+<home page.png, id=80, 610.07925pt x 325.215pt>
 File: home page.png Graphic file (type png)
 <use home page.png>
-Package pdftex.def Info: home page.png  used on input line 313.
+Package pdftex.def Info: home page.png  used on input line 377.
 (pdftex.def)             Requested size: 362.77263pt x 193.38374pt.
-<2.png, id=51, 958.17975pt x 507.69675pt>
+<2.png, id=81, 958.17975pt x 507.69675pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 321.
+Package pdftex.def Info: 2.png  used on input line 385.
 (pdftex.def)             Requested size: 362.77263pt x 192.21407pt.
-[6
+[9
 
  <./home page.png> <./2.png>]
 Chapter 5.
-[7
+[10
 
-] [8
+] [11
 
 ] (main.aux)
 
@@ -770,13 +822,13 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10872 strings out of 476331
- 206074 string characters out of 5787294
+ 10951 strings out of 476331
+ 206943 string characters out of 5787294
  1857660 words of memory out of 5000000
- 31199 multiletter control sequences out of 15000+600000
+ 31268 multiletter control sequences out of 15000+600000
  518542 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,68p,679b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,7n,68p,679b,801s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Darren\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m1200.pk><C:/Users/Darren/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Users/Darren/AppData/Local/Programs/MiKTeX/fonts/type1/p
@@ -785,9 +837,9 @@ onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Darren/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Darren/AppData/Local
 /Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Darren/App
 Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on main.pdf (15 pages, 1225369 bytes).
+Output written on main.pdf (18 pages, 1605237 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 125 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 

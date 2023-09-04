@@ -212,16 +212,18 @@ The scope of this Pharmacy Management System encompasses comprehensive medicatio
 \pagenumbering{arabic}
 \chapter{Software Requirement Specification}
 
-\section{Functional Requirement Specification} 
-Functional  Requirement Specification
+\section{Description on Implementation} 
+List of modules
 \begin{itemize}
 	
-\item Details of operations conducted in every screen
-\item Data handling logic should be entered into the system
-\item It should have descriptions of system reports or other outputs
-\item Complete information about the workflows performed by the system
-\item It should clearly define who will be allowed to create/modify/delete the data in the system
-\item How the system will fulfill applicable regulatory and compliance needs should be captured in the functional document.
+\item Login page
+\item Homepage
+\item Company
+\item Purchase
+\item Drugs
+\item Sales
+\item User/Settings
+\item Messaging
 \end{itemize}
 \section{Software Requirement Specification}
 Software Requirement Specification
@@ -267,44 +269,106 @@ Figure:\ref{fig:DBMS-Schema.png} shows the Schema Diagram of student Database.
 \pagebreak
 \section{Table description} 
 \begin{center}
-\begin{table}[h!]
-\centering
-    \begin{tabular}{|c|c|c|c|}
-    \hline
-      Attributes &Datatype &Constraints&Description  \\
-      \hline
-      \hline
-         STUD-ID&INT&PRIMARY KEY&ID of student  \\
-         \hline
-         STUD-NAME&VARCHAR&NOT NULL& Name of the student\\ 
-         \hline
-         Email-id&VARCHAR&NOT NULL& Email of the student\\ 
-         \hline
-    \end{tabular}
-    \caption{student details .}
-\label{table:1}
-    \end{table}
+Figure:\ref{fig:company.png} 
+\begin{figure}[h]
+	\centering
+	\includegraphics[width=1\textwidth]{company.png}
+	\caption{company table}
+	\label{fig:company.png}
+\end{figure}
 \end{center}
 
 \begin{center}
-\begin{table}[h!]
-\centering
-    \begin{tabular}{|c|c|c|c|}
-    \hline
-      Attributes &Datatype &Constraints&Description  \\
-      \hline
-      \hline
-         COURSE-ID&INT&PRIMARY KEY&ID of course  \\
-         \hline
-         COURSE-NAME&VARCHAR&NOT NULL& Name of the course\\ 
-         \hline
-         DEPT-ID&VARCHAR&NOT NULL& department id\\ 
-         \hline
-    \end{tabular}
-    \caption{course table .}
-\label{table:1}
-    \end{table}
+	Figure:\ref{fig:drugs.png} 
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{drugs.png}
+		\caption{drugs table}
+		\label{fig:drugs.png}
+	\end{figure}
 \end{center}
+
+\begin{center}
+	Figure:\ref{fig:expiry.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{expiry.png}
+		\caption{expiry table}
+		\label{fig:expiry.png}
+	\end{figure}
+\end{center}
+\newpage
+\begin{center}
+	Figure:\ref{fig:history.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{history.png}
+		\caption{history of sales table}
+		\label{fig:history.png}
+	\end{figure}
+\end{center}
+
+\begin{center}
+	Figure:\ref{fig:inbox.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{inbox.png}
+		\caption{inbox table}
+		\label{fig:inbox.png}
+	\end{figure}
+\end{center}
+
+\begin{center}
+	Figure:\ref{fig:login.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{login.png}
+		\caption{login table}
+		\label{fig:login.png}
+	\end{figure}
+\end{center}
+\newpage
+\begin{center}
+	Figure:\ref{fig:messagehist}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{messagehist.png}
+		\caption{message history table}
+		\label{fig:messagehist}
+	\end{figure}
+\end{center}
+
+\begin{center}
+	Figure:\ref{fig:purchase.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{purchase.png}
+		\caption{purchase table}
+		\label{fig:purchase.png}
+	\end{figure}
+\end{center}
+
+\begin{center}
+	Figure:\ref{fig:sales.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{sales.png}
+		\caption{sales table}
+		\label{fig:sales.png}
+	\end{figure}
+\end{center}
+\newpage
+\begin{center}
+	Figure:\ref{fig:users.png}
+	\begin{figure}[h]
+		\centering
+		\includegraphics[width=1\textwidth]{users.png}
+		\caption{users table}
+		\label{fig:users.png}
+	\end{figure}
+\end{center}
+
+
 \chapter{Screenshots}
 
 Figure:\ref{fig:home page.png} shows the screenshot of Login page 
